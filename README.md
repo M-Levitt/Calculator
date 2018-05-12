@@ -1,2 +1,2 @@
 # Calculator
-Basic calculator made in python
+different types of calculators made in python
